@@ -8,7 +8,7 @@
 
 ### Achievement Drivers Dashboard
 
-![Achievement Drivers Dashboard](achievement_drivers_SC.png)
+![Achievement Drivers Dashboard](achievement_drivers.png)
 
 ---
 
