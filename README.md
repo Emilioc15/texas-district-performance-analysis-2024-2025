@@ -4,11 +4,11 @@
 
 ### Executive Summary Dashboard
 
-![Executive Summary Dashboard](Dashboard_Page_1_SC.png)
+![Executive Summary Dashboard](dashboard_overview.png)
 
 ### Achievement Drivers Dashboard
 
-![Achievement Drivers Dashboard](Dashboard_Page_2_SC.png)
+![Achievement Drivers Dashboard](achievement_drivers_SC.png)
 
 ---
 
